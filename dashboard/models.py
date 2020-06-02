@@ -1,5 +1,5 @@
 from django.db import models
 
 class Subreddit(models.Model):
-	name = models.CharField()
+	name = models.CharField(max_length=255)
 

@@ -7,6 +7,7 @@ db.sqlite3
 media
 .venv
 venv/
+scripts/
 
 # PyCharm #
 .idea/**/workspace.xml

@@ -1,0 +1,14 @@
+Django
+django-allauth
+django-cors-headers
+django-rest-auth
+djangorestframework
+psycopg2
+python-twitter
+oauth2
+social-auth-app-django
+gunicorn
+dj-database-url
+django-crispy-forms
+praw
+matplotlib

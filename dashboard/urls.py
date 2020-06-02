@@ -1,5 +1,5 @@
-from django.urls import path, include
+from django.urls import path
 from .views import *
 urlpatterns = [
-	path('<str:subreddit>', dashboard, name="dashboard"),
+	path('get-mentions-over-period', get_mentions_over_period, name="get-mentions-over-period"),
 ]
